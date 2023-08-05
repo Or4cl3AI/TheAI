@@ -1,4 +1,4 @@
-# TheAI
+# TheAI (pronounced the eye)
 
 TheAI is an all-encompassing cyber security platform that uses artificial intelligence to protect businesses from a wide range of threats. The platform includes a variety of features, including:
 
